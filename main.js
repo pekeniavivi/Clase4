@@ -35,3 +35,7 @@ if (EdadFutura > Edad) {
 }
 
 
+// // for (var i = 0; i < diasdelasemana.length; i++) {
+//   console.log(diasdelasemana[i])
+
+// }
